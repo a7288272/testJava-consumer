@@ -1,0 +1,171 @@
+server:
+  port: 8084
+  servlet:
+    encoding:
+      force: true
+      charset: UTF-8
+      enabled: true
+  tomcat:
+    uri-encoding: UTF-8
+spring:
+  shardingsphere:
+    sharding:
+      tables:
+        pre_num:
+          actual-data-nodes: ds01.pre_num_$->{2022..2022}_$->{ 1..12 }
+          table-strategy:
+            standard:
+              sharding-column: create_time
+              precise-algorithm-class-name: cn.xuanma.test.shardingjdbc.DateMonthPreciseShardingAlgorithm
+              range-algorithm-class-name: cn.xuanma.test.shardingjdbc.DateMonthRangeShardingAlgorithm
+
+      binding-tables:
+        - pre_num
+
+    datasource:
+      #      names: master,ds02,ds03,ds04
+      names: ds01,ds02
+      #      主库
+      ds01:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+        username: root
+        password: 8888
+      #        从库
+      ds02:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+        username: root
+        password: 8888
+      sharding:
+        default-data-source-name: ds01
+        #强制读主库配置
+        default-database-strategy:
+          hint:
+            algorithm-class-name: com.xm.test.shardingjdbc.HintShardingKeyAlgorithm
+        master-slave-rules:
+          ds01:
+            master-data-source-name: ds01
+            slave-data-source-names: ds02
+      #          load-balance-algorithm-type: round_robin  #轮询
+      props:
+        sql.show: true
+#    datasource:
+#      #      names: master,ds02,ds03,ds04
+#      names: ds01
+#      ds01:
+#        type: com.alibaba.druid.pool.DruidDataSource
+#        driver-class-name: com.mysql.cj.jdbc.Driver
+#        url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+#        username: root
+#        password: 8888
+#        druid:
+#          #初始连接池
+#          initial-size: 10
+#          #最大连接池
+#          max-active: 500
+#          #最小连接池
+#          min-idle: 10
+#          #          获取连接最大等待时间
+#          maxWait: 5000
+    #      ds02:
+    #        type: com.alibaba.druid.pool.DruidDataSource
+    #        driver-class-name: com.mysql.cj.jdbc.Driver
+    #        url: jdbc:mysql://172.18.86.65:3306/erp?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    #        username: erp
+    #        password: Xmerp!@0225
+    #        druid:
+    #          #初始连接池
+    #          initial-size: 10
+    #          #最大连接池
+    #          max-active: 500
+    #          #最小连接池
+    #          min-idle: 10
+    #          #          获取连接最大等待时间
+    #          maxWait: 5000
+
+    #      ds03:
+    #        type: com.alibaba.druid.pool.DruidDataSource
+    #        driver-class-name: com.mysql.cj.jdbc.Driver
+    #        url: jdbc:mysql://127.0.0.1:3306/erp0914?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    #        username: erp1
+    #        password: erp123456
+    #        druid:
+    #          #初始连接池
+    #          initial-size: 10
+    #          #最大连接池
+    #          max-active: 500
+    #          #最小连接池
+    #          min-idle: 10
+    #          #          获取连接最大等待时间
+    #          maxWait: 5000
+
+
+
+#  datasource:
+#    url: jdbc:mysql://119.23.204.229:3306/xm_auth?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+#    username: erp #用户名
+#    password: Xmerp!@0225 #密码
+#    url: jdbc:mysql://localhost:3306/test?serverTimezone=Asia/Shanghai&allowMultiQueries=true #url
+#    username: root #用户名
+#    password: 8888 #密码
+#    druid:
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+  application:
+    # 应用名称
+    name: test-consumer
+    #使用到的配置文件
+  profiles:
+    active:
+  redis:
+    enable: true
+    database: 0
+    host: 119.23.204.229
+    port: 6379
+    password: 123456 # 密码（默认为空）
+    timeout: 86400000  # 连接超时时长（秒）
+    jedis:
+      pool:
+        max-active: 1000  # 连接池最大连接数（使用负值表示没有限制）
+        max-wait: -1ms      # 连接池最大阻塞等待时间（使用负值表示没有限制）
+        max-idle: 10      # 连接池中的最大空闲连接
+        min-idle: 5       # 连接池中的最小空闲连接
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        enabled: true
+        register-enabled: true
+        watch-delay: 1000
+
+  rabbitmq:
+    ####连接地址
+    host: localhost
+    ####端口号
+    port: 5672
+    ####账号
+    username: guest
+    ####密码
+    password: guest
+
+  main:
+    allow-bean-definition-overriding: true  # 后来发现的bean会覆盖之前相同名称的bean
+
+#  main:
+#    allow-circular-references: true
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+  print: true
+xm:
+  redis:
+    enable: true
+

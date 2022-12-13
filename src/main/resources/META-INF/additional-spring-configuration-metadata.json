@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.redis.enable",
+      "type": "java.lang.String",
+      "description": "Description for spring.redis.enable."
+  }
+] }

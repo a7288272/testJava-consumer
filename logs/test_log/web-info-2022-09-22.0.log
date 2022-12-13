@@ -1,0 +1,270 @@
+2022-09-22 10:15:51.683 [main] INFO  MybatisPlusGenerator - Starting MybatisPlusGenerator using Java 1.8.0_265 on SD-20200616IQGO with PID 7368 (D:\JavaProject\test\target\test-classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:15:51.754 [main] INFO  MybatisPlusGenerator - No active profile set, falling back to default profiles: default
+2022-09-22 10:15:57.459 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8068 (http)
+2022-09-22 10:15:57.489 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8068"]
+2022-09-22 10:15:57.491 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:15:57.493 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:15:58.018 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:15:58.019 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6154 ms
+2022-09-22 10:15:58.993 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:15:59.006 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:15:59.168 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 18800 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:15:59.174 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:16:04.414 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:16:04.430 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:16:04.458 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:16:04.461 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:16:05.157 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:16:05.158 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5873 ms
+2022-09-22 10:16:05.333 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:16:05.666 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:30:54.029 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 9992 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:30:54.128 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:30:59.893 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:30:59.935 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:30:59.937 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:30:59.938 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:31:00.639 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:31:00.640 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6422 ms
+2022-09-22 10:31:00.853 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:31:00.926 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:31:28.412 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 20032 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:31:28.416 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:31:31.189 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:31:31.202 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:31:31.203 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:31:31.203 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:31:31.499 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:31:31.500 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3016 ms
+2022-09-22 10:31:31.564 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:31:31.584 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:47:52.925 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 21308 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:47:52.930 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:47:56.774 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:47:56.789 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:47:56.790 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:47:56.792 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:47:57.163 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:47:57.164 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4162 ms
+2022-09-22 10:47:57.266 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:47:57.298 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:52:52.883 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 19392 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:52:52.887 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:52:55.678 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:52:55.688 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:52:55.689 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:52:55.690 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:52:56.051 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:52:56.052 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3021 ms
+2022-09-22 10:52:56.186 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:52:56.235 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:58:49.322 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 4884 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:58:49.327 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:58:52.174 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:58:52.189 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:58:52.190 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:58:52.191 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:58:52.470 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:58:52.471 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3059 ms
+2022-09-22 10:58:52.547 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:58:52.569 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 10:59:39.152 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 13480 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 10:59:39.157 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 10:59:42.204 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 10:59:42.221 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 10:59:42.222 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 10:59:42.223 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 10:59:42.641 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 10:59:42.643 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3337 ms
+2022-09-22 10:59:44.196 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 10:59:44.215 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 11:28:33.382 [main] INFO  DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 22796 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 11:28:33.389 [main] INFO  DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 11:28:37.617 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 11:28:37.651 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 11:28:37.653 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 11:28:37.654 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 11:28:38.193 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 11:28:38.194 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4657 ms
+2022-09-22 11:28:40.682 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 11:28:40.700 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 13:47:08.021 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 16288 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 13:47:08.038 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 13:47:10.336 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 13:47:10.346 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 13:47:10.347 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 13:47:10.348 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 13:47:10.642 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 13:47:10.642 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2529 ms
+2022-09-22 13:47:12.282 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 13:47:12.295 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 13:48:37.607 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 13520 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 13:48:37.614 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 13:48:42.951 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 13:48:42.966 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 13:48:42.968 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 13:48:42.969 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 13:48:43.588 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 13:48:43.591 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5907 ms
+2022-09-22 13:48:46.036 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 13:48:46.065 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 13:56:33.857 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 25896 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 13:56:33.867 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 13:56:36.594 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 13:56:36.604 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 13:56:36.605 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 13:56:36.605 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 13:56:36.820 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 13:56:36.820 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2879 ms
+2022-09-22 13:56:36.923 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 13:56:36.945 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 15:16:51.263 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 12976 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 15:16:51.269 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 15:16:57.776 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 15:17:41.504 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 12884 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 15:17:41.517 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 15:17:46.850 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 15:17:46.875 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 15:17:46.880 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 15:17:46.881 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 15:17:47.421 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 15:17:47.422 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5490 ms
+2022-09-22 15:17:49.567 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 15:17:49.585 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 16:35:07.656 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 27596 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 16:35:07.663 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 16:35:10.699 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 16:35:10.710 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 16:35:10.712 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 16:35:10.712 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 16:35:10.963 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 16:35:10.964 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3211 ms
+2022-09-22 16:35:12.321 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 16:35:12.336 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 16:36:05.720 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 14144 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 16:36:05.724 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 16:36:09.422 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 16:36:09.435 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 16:36:09.436 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 16:36:09.437 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 16:36:09.850 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 16:36:09.851 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3924 ms
+2022-09-22 16:36:12.247 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 16:36:12.262 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 16:42:20.891 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 8964 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 16:42:20.897 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 16:42:23.703 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [cn.xuanma.common.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$9cabd4df] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-22 16:42:24.129 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 16:42:24.140 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 16:42:24.140 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 16:42:24.141 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 16:42:24.467 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 16:42:24.468 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3491 ms
+2022-09-22 16:42:24.864 [main] INFO  org.redisson.Version - Redisson 3.17.1
+2022-09-22 16:42:26.628 [redisson-netty-2-18] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 16:42:26.819 [redisson-netty-2-19] INFO  org.redisson.connection.pool.MasterConnectionPool - 24 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 16:42:28.548 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 16:42:28.562 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 16:43:48.289 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 2448 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 16:43:48.297 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 16:43:52.088 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [cn.xuanma.common.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$b959eb0d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-22 16:43:52.641 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 16:43:52.655 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 16:43:52.656 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 16:43:52.656 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 16:43:53.036 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 16:43:53.037 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4634 ms
+2022-09-22 16:43:53.432 [main] INFO  org.redisson.Version - Redisson 3.17.1
+2022-09-22 16:43:56.233 [redisson-netty-2-13] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 16:43:56.500 [redisson-netty-2-19] INFO  org.redisson.connection.pool.MasterConnectionPool - 24 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 16:43:59.226 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 16:43:59.244 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 16:46:31.547 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 28228 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 16:46:31.554 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 16:46:34.566 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [cn.xuanma.common.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$c5d4a886] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-22 16:46:35.028 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 16:46:35.040 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 16:46:35.042 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 16:46:35.044 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 16:46:35.232 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 16:46:35.233 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3469 ms
+2022-09-22 16:46:35.608 [main] INFO  org.redisson.Version - Redisson 3.17.1
+2022-09-22 16:46:37.244 [redisson-netty-2-18] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 16:46:37.431 [redisson-netty-2-19] INFO  org.redisson.connection.pool.MasterConnectionPool - 24 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 16:46:39.229 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 16:46:39.244 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 17:08:52.647 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 12680 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 17:08:52.651 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 17:08:54.300 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [cn.xuanma.common.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$c8c0e01] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-22 17:08:54.635 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 17:08:54.643 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 17:08:54.644 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 17:08:54.645 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 17:08:54.897 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 17:08:54.898 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2191 ms
+2022-09-22 17:08:55.396 [main] INFO  org.redisson.Version - Redisson 3.17.1
+2022-09-22 17:08:57.998 [redisson-netty-2-18] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 17:08:58.181 [redisson-netty-2-19] INFO  org.redisson.connection.pool.MasterConnectionPool - 24 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 17:09:07.086 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 17:09:07.104 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 17:23:50.647 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 26688 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 17:23:50.652 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 17:23:53.312 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [cn.xuanma.common.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$c8c0e01] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-22 17:23:53.714 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-09-22 17:23:53.736 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-09-22 17:23:53.737 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-22 17:23:53.739 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-09-22 17:23:54.173 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-22 17:23:54.174 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3427 ms
+2022-09-22 17:23:54.454 [main] INFO  org.redisson.Version - Redisson 3.17.1
+2022-09-22 17:23:55.938 [redisson-netty-2-18] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 17:23:56.121 [redisson-netty-2-19] INFO  org.redisson.connection.pool.MasterConnectionPool - 24 connections initialized for 119.23.204.229/119.23.204.229:6379
+2022-09-22 17:23:57.641 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-22 17:23:57.660 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 17:26:25.355 [main] INFO  cn.xuanma.test.DemoApplication - Starting DemoApplication using Java 1.8.0_265 on SD-20200616IQGO with PID 2232 (D:\JavaProject\test\target\classes started by Administrator in D:\JavaProject\test)
+2022-09-22 17:26:25.358 [main] INFO  cn.xuanma.test.DemoApplication - No active profile set, falling back to default profiles: default
+2022-09-22 17:26:25.723 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
